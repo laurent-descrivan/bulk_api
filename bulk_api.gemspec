@@ -10,4 +10,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails",      "~> 3.0"
   s.add_dependency "sproutcore", "~> 1.6.0.rc.1"
+  s.add_dependency "sproutcore-coffeescript", "~> 0.1.5"
 end

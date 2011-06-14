@@ -1,6 +1,7 @@
 require 'sproutcore'
 require 'sproutcore/rack/service'
 require 'sproutcore/models/project'
+require 'sproutcore-coffeescript'
 
 module Bulk
   class Sproutcore
